@@ -31,7 +31,7 @@ print(irisData.info())
 print("\nObservations of each species:\n") 
 print(irisData['Species'].value_counts())
 
-#To view basic statistical details like percentile, mean, std etc. of iris data
+#To view basic statistical details like percentile, mean, std etc. of iris data this me adding a change to my application
 print("\nStatistical Data for entire data set\n") 
 print(irisData.describe())
 
