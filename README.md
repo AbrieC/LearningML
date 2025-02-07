@@ -1,2 +1,2 @@
-# LearningML
- Documenting learning of ML
+# MLvsAI
+ Project space of my journey bacoming ML profficient
